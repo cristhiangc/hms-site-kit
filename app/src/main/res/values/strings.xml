@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Site Demo</string>
+    <string name="API_KEY_SITE">KEY</string>
+</resources>
